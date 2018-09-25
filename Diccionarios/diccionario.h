@@ -1,6 +1,5 @@
 #ifndef DICCIONARIO_H
 #define DICCIONARIO_H
-#include <stdlib.h>
 
 typedef struct Pareja Pareja;
 typedef struct Diccionario Diccionario;
