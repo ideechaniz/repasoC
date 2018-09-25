@@ -1,5 +1,5 @@
 #include "diccionario.h"
-//#include <stdlib.h>
+#include <stdlib.h>
 #include <stdio.h>
 
 void diccionario_muestra(const Diccionario *D)
