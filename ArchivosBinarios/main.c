@@ -21,7 +21,7 @@ int main()
     Persona empleados[]= { {"Juan", 25, 5000.0 },
                            {"Ana", 30, 6000.0 },
                            {"Luis", 40, 7000.0 },
-                           {"Franchisco", 50, 8000.0 } };
+                           {"Francisco", 50, 8000.0 } };
 
     const int tam= sizeof(empleados) / sizeof(Persona);
     Persona empleadosEntrada[tam];
