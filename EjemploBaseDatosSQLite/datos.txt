@@ -1,0 +1,4 @@
+Perdro 45
+Juan 50
+Ana 25
+Luis 10
